@@ -29,11 +29,11 @@ cd /opt/2PLSF && python3.11 run.py
 Afterwards, the log data will appear in the `/opt/2PLSF/data` directory, while the figures will appear in the `/opt/2PLSF/figure` directory.
 
 # Change Log
-- 环境部署
+- Deploy the code environment
     - docker/Dockerfile
-- 软件测试
+- Test for the code
     - source/config.toml
     - source/requirements.txt
     - source/run.py/\<function benchmarks\>
-- 实验图表绘制
+- Draw the figures
     - source/run.py/\<function data_plot\>
