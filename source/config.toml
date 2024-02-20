@@ -1,0 +1,8 @@
+bin_folder = "/opt/2PLSF/graphs/bin"
+
+time_duration = 10
+num_runs = 1
+
+thread_list = [1, 2, 4, 8, 12, 16, 24]
+ratio_list = [1000, 200, 0]
+stm_name_list = ["2plsf", "tiny", "tl2orig", "tlrweager", "oreceager", "ofwf", "tl2", "oreclazy", "2plundo", "2plundodist"]
